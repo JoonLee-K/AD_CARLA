@@ -12,6 +12,8 @@ CARLA : http://carla.org/services/
 #### 1. 적응 속도 유지
 
 #### 2. 차로 유지 <- Currently figuring out...
+  + Material
+    + [Paper] [차선유지를 위한 실시간 차선인식 알고리즘 구현(Implementation of Real-time Lane Detection Algorithm for Lane Keeping Assistance System)](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0014545310&dbt=DIKO)
   + 알고리즘
     + Model Base
     + Feature Base
