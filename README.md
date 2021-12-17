@@ -1,5 +1,6 @@
 # AD_CARLA
 Learning how the autonomous driving works using CARLA simulator
+
 CARLA 시뮬레이터를 이용해 파이썬으로 자율 주행 자동차를 구현하는 것을 목표로 한다.
 
 ## Simulator
@@ -30,5 +31,6 @@ CARLA : http://carla.org/services/
 
 #### 8. 자동 주차
 
+## 기타
 자율주행 데이터 셋
 https://rdx-live.tistory.com/90
